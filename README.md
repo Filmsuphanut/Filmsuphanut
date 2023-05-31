@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suphanut Wandee (Film)
 - 🌱 I’m currently learning in KMITL as Computer Engineering
-- 📫 How to reach me 62010893@kmitl.ac.th
+- 📫 How to reach me suphanut.wandee@gmail.com
 
 <!---
 Filmsuphanut/Filmsuphanut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
