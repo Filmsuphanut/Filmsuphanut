@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suphanut Wandee (Film)
-- 🌱 I’m currently learning in KMITL as Computer Engineering
+- 🌱 I graduated from KMITL in Computer Engineering.
 - 📫 How to reach me suphanut.wandee@gmail.com
 
 <!---
